@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "my-standards",
-      "source": ".",
+      "source": "./",
       "description": "Personal coding standards and conventions to guide Claude Code's behavior across projects."
     }
   ]
